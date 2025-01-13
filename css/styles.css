@@ -1,1 +1,23 @@
 /*Ini File CSS*/
+.main-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-icon {
+    border: 1px solid;
+    height: 50px;
+    width: 55px; 
+}
+
+.banner-image {
+    border: 1px solid;
+    height: 450px;
+}
+
+.content {
+    /*optional*/
+    height : 500px;
+
+}
